@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "archive"
+title                    : "notsyn archive"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "notsyn496"
+name                     : "notsyn"
 description              : ""
 url                      : "https://notsyn496.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
